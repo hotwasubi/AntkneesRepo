@@ -1,20 +1,20 @@
  body{
     font-size: 18px;
-    background-image: url(images/darkness.png);
+    background-image: url(../images/darkness.png);
     background-color: lightblue;
  }  
 
  .navbar {
-     background-color: #ffffff;
-     border-bottom: 1px solid #cccccc;
-     margin-bottom: 60px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    margin-bottom: 60px;
  }
 
  nav{
-     max-width: 960px;
-     margin: 0 auto;
-     display: flex;
-     justify-content: space-between;
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
  }
 
 #name{
